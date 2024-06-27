@@ -13,3 +13,5 @@ Here's a good AI v. ANI v. AGI explanation: [AI is a Lie. - YouTube](https://you
 [AI Won&#39;t Be AGI, Until It Can At Least Do This (plus 6 key ways LLMs are being upgraded) - YouTube](https://youtu.be/PeSNEXKxarU).
 
 Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https://youtu.be/k0XuoK132z4).
+
+[AI Hype is completely out of control - especially since ChatGPT-4o - YouTube](https://youtu.be/VctsqOo8wsc).
