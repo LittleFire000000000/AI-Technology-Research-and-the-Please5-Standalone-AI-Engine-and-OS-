@@ -19,3 +19,5 @@ Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https
 # Status of AI Security:
 
 [OpenAI Insecure Storage - ThreatWire - YouTube](https://youtu.be/L0IBbmmaMiU), really? as Recall with Microsoft, OpenAI's macOS app heretofore hath tus been been clumbsy with users' data and encryption thereof! C'mon!
+
+[How A.I. Killed the Internet. - YouTube](https://youtu.be/PaVjQFMg7L0): dead internet "conspiracy" theory: fact or fiction?…
