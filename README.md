@@ -15,3 +15,7 @@ Here's a good AI v. ANI v. AGI explanation: [AI is a Lie. - YouTube](https://you
 Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https://youtu.be/k0XuoK132z4).
 
 [AI Hype is completely out of control - especially since ChatGPT-4o - YouTube](https://youtu.be/VctsqOo8wsc).
+
+# Status of AI Security:
+
+[OpenAI Insecure Storage - ThreatWire - YouTube](https://youtu.be/L0IBbmmaMiU), really? as Recall with Microsoft, OpenAI's macOS app heretofore hath tus been been clumbsy with users' data and encryption thereof! C'mon!
