@@ -21,3 +21,5 @@ Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https
 [OpenAI Insecure Storage - ThreatWire - YouTube](https://youtu.be/L0IBbmmaMiU), really? as Recall with Microsoft, OpenAI's macOS app heretofore hath tus been been clumbsy with users' data and encryption thereof! C'mon!
 
 [How A.I. Killed the Internet. - YouTube](https://youtu.be/PaVjQFMg7L0): dead internet "conspiracy" theory: fact or fiction?…
+
+[Sexual and asexual reproduction. Mathematical models - YouTube](https://youtu.be/4VMk1VgdoCU): evolution via sexual, meiosis; asexual, mitosis reproduction, replication, and continual reproduction.
