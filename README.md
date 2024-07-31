@@ -29,3 +29,9 @@ Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https
 # Technical
 
 [code_your_own_AI - YouTube](https://www.youtube.com/@code4AI)!
+
+[Machine Learning Studio - YouTube](https://www.youtube.com/@PyMLstudio).
+
+[CodeEmporium - YouTube](https://www.youtube.com/@CodeEmporium).
+
+[Socratica - YouTube](https://www.youtube.com/@Socratica).
