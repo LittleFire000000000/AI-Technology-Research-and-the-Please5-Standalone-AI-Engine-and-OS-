@@ -16,6 +16,8 @@ Based! [I Will Piledrive You If You Say AI Again | Prime Reacts - YouTube](https
 
 [AI Hype is completely out of control - especially since ChatGPT-4o - YouTube](https://youtu.be/VctsqOo8wsc).
 
+Bubbles and gold rushes will not deter researchers like me: [Wall Street Turning On AI - YouTube](https://youtu.be/42Hw5VwdDvE).
+
 # Status of AI Security:
 
 [OpenAI Insecure Storage - ThreatWire - YouTube](https://youtu.be/L0IBbmmaMiU), really? as Recall with Microsoft, OpenAI's macOS app heretofore hath tus been been clumbsy with users' data and encryption thereof! C'mon!
