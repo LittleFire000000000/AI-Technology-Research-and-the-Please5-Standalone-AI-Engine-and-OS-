@@ -8,7 +8,11 @@ Here's a good AI v. ANI v. AGI explanation: [AI is a Lie. - YouTube](https://you
 
 [What Do Neural Networks Really Learn? Exploring the Brain of an AI Model - YouTube](https://youtu.be/jGCvY4gNnA8).
 
-# Status of AGI
+# How to Make Experiments:
+
+[Hypothesis Testing - Z test &amp; T test - YouTube](https://youtu.be/3Ump_ZsX3zw) thorough scientific experiment design. [How To Know Which Statistical Test To Use For Hypothesis Testing - YouTube](https://youtu.be/ChLO7wwt7h0)!
+
+# Status of AGI‽
 
 [AI Won&#39;t Be AGI, Until It Can At Least Do This (plus 6 key ways LLMs are being upgraded) - YouTube](https://youtu.be/PeSNEXKxarU).
 
@@ -37,3 +41,5 @@ Bubbles and gold rushes will not deter researchers like me: [Wall Street Turning
 [CodeEmporium - YouTube](https://www.youtube.com/@CodeEmporium).
 
 [Socratica - YouTube](https://www.youtube.com/@Socratica).
+
+[Weights &amp; Biases - YouTube](https://www.youtube.com/@WeightsBiases).
