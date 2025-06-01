@@ -43,3 +43,5 @@ Bubbles and gold rushes will not deter researchers like me: [Wall Street Turning
 [Socratica - YouTube](https://www.youtube.com/@Socratica).
 
 [Weights &amp; Biases - YouTube](https://www.youtube.com/@WeightsBiases).
+
+[Ross Mcgowan - YouTube](https://www.youtube.com/@RossMcgowanMaths) :: "*APPLIED MATHEMATICS | COMPUTER SCIENCE // I create full courses on topics in Applied Mathematics and Computer Science. // [https://www.appliedmathematics.co.uk/](https://www.appliedmathematics.co.uk/)*"!
