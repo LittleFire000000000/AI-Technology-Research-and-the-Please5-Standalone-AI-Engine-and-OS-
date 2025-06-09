@@ -2,6 +2,8 @@
 
 For attaining untold knowledge of AI from the math to the C, C++, &amp;/ Assembly level without ANY libraries. To ANI, AGI, ASI, and AGSI, and beyond!   Same grand goal; but serious execution.
 
+The standard deviation is all that's really needed : [ChatGPT - Welford Algorithm Explained](https://chatgpt.com/share/6847190b-f604-8000-9409-00157ca9d3f4).  Verious fitness and unfitness fuinctions can be built with it alone — trained without back propagation!
+
 Here's a good AI v. ANI v. AGI explanation: [AI is a Lie. - YouTube](https://youtu.be/nGIpdiQrFDU) from *Linus Tech Tips*.
 
 # Mechanistic Interpretability?
